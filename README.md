@@ -45,7 +45,8 @@ Potential improvements include:
 
 ## Contributors
 
-- **Muhammad Ali** (Project Leader)
+- **Muhammad** (Project Leader)
+- **Muhammad Ali**
 - **Hajra Mehmood**
 - **Sana Mehdi**
 - **Adnan Khan**
